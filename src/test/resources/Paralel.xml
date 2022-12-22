@@ -1,0 +1,8 @@
+<suite name = "Paralel" verbose = "1" >
+    <parameter name = "browser" value = "Android" />
+    <test name = "Mobil Testing" >
+        <classes>
+        <class name = "testRunners.runner" />
+        </classes>
+    </test>
+</suite>
